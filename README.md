@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 - **Language:** Python
-- **Concepts:** OOP, DSA, File Handling, CRUD Operations
+- **Concepts:** OOP, File Handling, CRUD Operations, Basic DSA
 - **Tools:** Git, GitHub, Tkinter, Turtle Graphics, Matplotlib
 - **Database:** MySQL(basics)
 
