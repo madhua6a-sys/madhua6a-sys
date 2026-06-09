@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Madhu Tiwari 👋
 
-<!--
-**madhua6a-sys/madhua6a-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Graduate | 💻 Python Developer | 🔍 Open to Entry-Level SDE Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Language:** Python
+- **Concepts:** OOP, DSA, File Handling, CRUD Operations
+- **Tools:** Git, GitHub, Tkinter, Turtle Graphics, Matplotlib
+- **Database:** MySQL(basics)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech Used |
+|---|---|---|
+| 🏝️ [Treasure Island Game](https://github.com/madhua6a-sys/Treasure-Island-Game) | Text adventure with turtle graphics, ASCII art & animated fireworks | Python, Turtle, Random |
+| ✅ [To-Do List App](https://github.com/madhua6a-sys/ToDo_List) | Menu-driven task manager with persistent file storage | Python, File Handling |
+| 💰 [Expense Tracker](https://github.com/madhua6a-sys/Expense_Tracker) | CLI app to add, view & delete expenses with JSON storage | Python, JSON |
+| 🔐 [Password Generator](https://github.com/madhua6a-sys/Secure_Password_Generator) | GUI app with strength checker and clipboard support | Python,Secrets |
+| 🎯 [Quiz Game](https://github.com/madhua6a-sys/Quiz_Game) | CLI quiz with 10 MCQs, input validation & score tracking | Python |
+
+---
+
+## 📫 Contact
+- 📧 madhua6a@gmail.com
+- 💼 [GitHub](https://github.com/madhua6a-sys)
+
+---
+⭐ *"Learning every day, one project at a time"*
