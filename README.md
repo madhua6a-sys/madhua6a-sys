@@ -28,7 +28,7 @@
 - 📧 madhua6a@gmail.com
 - 💼 [GitHub](https://github.com/madhua6a-sys)
  
-[LinkedIn](https://www.linkedin.com/in/madhutiwari02) 
+-[LinkedIn](https://www.linkedin.com/in/madhutiwari02) 
 
 ---
 ⭐ *"Learning every day, one project at a time"*
